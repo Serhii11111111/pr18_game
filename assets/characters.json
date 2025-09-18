@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Герой",
+    "hp": 120,
+    "ap": 20,
+    "armor": 10,
+    "portrait_path": "assets/portraits/Герой.jpg"
+  },
+  {
+    "name": "Ворог",
+    "hp": 100,
+    "ap": 15,
+    "armor": 5,
+    "portrait_path": "assets/portraits/Ворог.jpg"
+  },
+  {
+    "name": "Маг",
+    "hp": 90,
+    "ap": 25,
+    "armor": 5,
+    "portrait_path": "assets/portraits/Маг.jpg"
+  },
+  {
+    "name": "Лучник",
+    "hp": 110,
+    "ap": 18,
+    "armor": 8,
+    "portrait_path": "assets/portraits/Лучник.jpg"
+  },
+  {
+    "name": "Рицар",
+    "hp": 130,
+    "ap": 15,
+    "armor": 12,
+    "portrait_path": "assets/portraits/Рицар.jpg"
+  }
+]
